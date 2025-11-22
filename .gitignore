@@ -1,0 +1,42 @@
+﻿# Videos and large files
+*.mp4
+*.avi
+*.mov
+*.mp3
+*.mkv
+
+# Python
+__pycache__/
+*.py[cod]
+*.class
+*.so
+.Python
+venv/
+env/
+ENV/
+.env
+*.db
+*.sqlite3
+
+# Node
+node_modules/
+dist/
+dist-ssr/
+build/
+*.log
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-*
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# MongoDB
+data/
+*.mongo
